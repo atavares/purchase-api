@@ -63,7 +63,7 @@ Content:
 }
 ```
 
-### To view Swagger 2 API docs
+### To view Swagger Open API docs
 
 Run the server and browse to http://localhost:8080/swagger-ui.html
 
